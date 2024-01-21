@@ -36,16 +36,16 @@ This project is a Social Network Management System implemented in C, offering a 
 ### Screenshots
 
 ## Home
-<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/main.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/main.jpg'>
 
 ## Admin-Login
-<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/admin.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/admin.jpg'>
 
 ## User-Login
-<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/user.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/user.jpg'>
 
 ## Graph Visualization
-<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/graph.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/graph.jpg'>
 
 ## Just follow me and Star ⭐ my repository 
 ## Thank You!!
