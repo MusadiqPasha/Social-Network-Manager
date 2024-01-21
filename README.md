@@ -36,13 +36,16 @@ This project is a Social Network Management System implemented in C, offering a 
 ### Screenshots
 
 ## Home
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/main.png'>
 
 ## Admin-Login
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/admin.png'>
 
 ## User-Login
-<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/user.png'>
+
+## Graph Visualization
+<img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/graph.png'>
 
 ## Just follow me and Star ⭐ my repository 
 ## Thank You!!
