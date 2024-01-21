@@ -17,11 +17,32 @@ This project is a Social Network Management System implemented in C, offering a 
 - Calculate a friend score for each user based on their friend relationships.
 - Securely manage user accounts with unique user IDs, usernames, and passwords.
   Differentiate between regular users and administrators for enhanced security.
+  
 ## Admin Functionalities:
 
 - Admins can perform actions such as displaying the adjacency matrix, opening data files, and finding user IDs.
 - File Handling:
-  Read and write user data to files, facilitating persistence across program runs.
+  Read and write user data to `.txt file` , facilitating persistence across program runs.
   Handle file operations for adding, removing, and updating user and friendship data.
-- Utilize BFS algorithm to find paths and mutual friends between two users.
+- Utilize `BFS Algorithm` to find paths and mutual friends between two users.
 - Interactive Command Line Menu
+
+### Steps to Follow
+- Download or clone my Repository to your device
+- Make sure you have `GraphViz` installed [graphviz](https://graphviz.org/download/)  and are able to run it from the terminal.
+- Run `Social_Networking.c` file
+- Admin Login Passowrd is admin `admin`
+
+### Screenshots
+
+## Home
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+
+## Admin-Login
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+
+## User-Login
+<img src='https://github.com/MusadiqPasha/Face_Recognition/blob/main/GUI%20U%20K.png'>
+
+## Just follow me and Star ⭐ my repository 
+## Thank You!!
