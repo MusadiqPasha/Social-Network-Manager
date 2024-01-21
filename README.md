@@ -36,6 +36,9 @@ This project is a Social Network Management System implemented in C, offering a 
 ### Screenshots
 
 ## Home
+
+![Home](https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/main.jpg)
+
 <img src='https://github.com/MusadiqPasha/Social-Network-Manager/tree/main/images/main.jpg'>
 
 ## Admin-Login
