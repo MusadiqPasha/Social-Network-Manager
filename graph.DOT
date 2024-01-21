@@ -1,0 +1,34 @@
+digraph SocialNetwork {
+    rankdir=LR;
+    graph [size="15,20"];
+    edge [dir=single, arrowhead=vee];
+    Charlie [style="filled", fillcolor="#514B6"];
+    David [style="filled", fillcolor="#2C899"];
+    Eva [style="filled", fillcolor="#7E567"];
+    Grace [style="filled", fillcolor="#38719"];
+    Ivy [style="filled", fillcolor="#99639"];
+    Jack [style="filled", fillcolor="#935B4"];
+    Kathy [style="filled", fillcolor="#83642"];
+    Liam [style="filled", fillcolor="#34664"];
+    Charlie -> David [color="#4C863"];
+    Charlie -> Eva [color="#442E5"];
+    Charlie -> Jack [color="#6F865"];
+    Charlie -> Kathy [color="#3A757"];
+    David -> Grace [color="#6B633"];
+    David -> Ivy [color="#4E472"];
+    David -> Kathy [color="#82A53"];
+    Eva -> Charlie [color="#604D4"];
+    Eva -> David [color="#857C7"];
+    Eva -> Grace [color="#A43E9"];
+    Grace -> David [color="#6D633"];
+    Grace -> Eva [color="#35313"];
+    Ivy -> Charlie [color="#44835"];
+    Ivy -> Eva [color="#5A484"];
+    Jack -> David [color="#78966"];
+    Jack -> Eva [color="#A05EA"];
+    Jack -> Grace [color="#3A715"];
+    Kathy -> Charlie [color="#9E46A"];
+    Kathy -> David [color="#71845"];
+    Liam -> Charlie [color="#773C9"];
+    Liam -> David [color="#6C688"];
+}
