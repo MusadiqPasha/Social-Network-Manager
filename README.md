@@ -2,6 +2,11 @@
 
 This project is a Social Network Management System implemented in C, offering a comprehensive set of features for managing user relationships within a social network. The system provides a command-line interface for users to interact with various functionalities, including user authentication, friend management, and graph visualization.
 
+## Graph Visualization
+
+![](https://github.com/MusadiqPasha/Social-Network-Manager/assets/64960566/0a893af8-1aca-4250-bdab-234a28f8973c)
+
+
 # Features
 
 ## User Authentication and Authorization:
@@ -46,10 +51,6 @@ This project is a Social Network Management System implemented in C, offering a 
 ## User-Login
 
 ![](https://github.com/MusadiqPasha/Social-Network-Manager/assets/64960566/ccf3bb09-5a18-4f50-9eb4-9b4c2aa8701f)
-
-## Graph Visualization
-
-![](https://github.com/MusadiqPasha/Social-Network-Manager/assets/64960566/0a893af8-1aca-4250-bdab-234a28f8973c)
 
 
 ## Just follow me and Star ⭐ my repository 
